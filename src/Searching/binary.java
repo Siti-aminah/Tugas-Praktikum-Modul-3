@@ -4,7 +4,7 @@ import java.util.Scanner;
    
 public class binary {
     public static void main (String[] args){
-               System.out.println("Diannita Amjani (20090085)" + "\n");
+               System.out.println("Siti Aminah Dauda (20090102)" + "\n");
         int A [] = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20};
         int search ;
         int Indeks1 = 0; // 0
